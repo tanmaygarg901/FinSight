@@ -2,7 +2,7 @@
 
 A sophisticated personal finance tracking application with advanced data analytics, machine learning insights, and predictive modeling capabilities.
 
-## 🚀 Features
+##  Features
 
 ### Core Functionality
 - **Expense Tracking**: Comprehensive expense management with categorization
