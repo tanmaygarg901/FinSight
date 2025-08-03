@@ -1,6 +1,6 @@
-# FinSight - Advanced Personal Finance Analytics Platform
+# FinSight
 
-A sophisticated personal finance tracking application with advanced data analytics, machine learning insights, and predictive modeling capabilities. Built for showcasing data engineering and analytics skills.
+A sophisticated personal finance tracking application with advanced data analytics, machine learning insights, and predictive modeling capabilities.
 
 ## 🚀 Features
 
@@ -64,7 +64,7 @@ A sophisticated personal finance tracking application with advanced data analyti
 - **Data aggregation pipelines** using SQL
 - **Export functionality** for data portability
 
-## 📊 Analytics Features
+## Analytics Features
 
 ### 1. Advanced Metrics Dashboard
 - Daily spending averages and projections
@@ -103,7 +103,7 @@ A sophisticated personal finance tracking application with advanced data analyti
 - Real-time data processing with triggers
 - Automated timestamp management
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+ and npm
@@ -124,26 +124,3 @@ npm run dev
 
 ### Environment Setup
 The application uses Supabase for backend services. Database credentials are pre-configured for the demo environment.
-
-## 📈 Data Engineering Showcase
-
-This project demonstrates several key data engineering and analytics concepts:
-
-1. **ETL Pipeline**: Data extraction from CSV files, transformation for analysis, and loading into structured database
-2. **Real-time Analytics**: Live dashboard updates with complex aggregations
-3. **Predictive Modeling**: Statistical analysis for forecasting and trend prediction
-4. **Data Visualization**: Interactive charts and graphs for data storytelling
-5. **Performance Optimization**: Efficient SQL queries and database indexing
-6. **Data Quality**: Validation, cleaning, and error handling processes
-
-## 🎯 Resume Highlights
-
-This project showcases proficiency in:
-- **Data Engineering**: ETL pipelines, database design, real-time processing
-- **Analytics**: Statistical analysis, predictive modeling, data visualization
-- **Full-Stack Development**: React, TypeScript, PostgreSQL, modern tooling
-- **Database Management**: Advanced SQL, performance optimization, security
-- **UI/UX Design**: Responsive design, data dashboard creation
-- **Software Architecture**: Modular design, type safety, scalable patterns
-
-Perfect for demonstrating technical skills for data analyst, data engineer, or full-stack developer internship positions.
