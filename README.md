@@ -35,13 +35,6 @@ A sophisticated personal finance tracking application with advanced data analyti
   - Advanced SQL functions for complex analytics
   - Data export capabilities (CSV format)
 
-### Technical Highlights
-- **Database Engineering**: PostgreSQL with advanced functions and RLS
-- **Real-time Updates**: Supabase integration with live data sync
-- **Responsive Design**: Mobile-first approach with Tailwind CSS
-- **Type Safety**: Full TypeScript implementation
-- **Modern UI**: shadcn/ui components with custom analytics dashboards
-
 ## 🛠 Technology Stack
 
 ### Frontend
