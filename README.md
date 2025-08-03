@@ -1,4 +1,4 @@
-# FinBloom - Advanced Personal Finance Analytics Platform
+# FinSight - Advanced Personal Finance Analytics Platform
 
 A sophisticated personal finance tracking application with advanced data analytics, machine learning insights, and predictive modeling capabilities. Built for showcasing data engineering and analytics skills.
 
