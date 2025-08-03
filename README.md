@@ -35,7 +35,7 @@ A sophisticated personal finance tracking application with advanced data analyti
   - Advanced SQL functions for complex analytics
   - Data export capabilities (CSV format)
 
-## 🛠 Technology Stack
+## Technology Stack
 
 ### Frontend
 - **React 18** with TypeScript
@@ -83,7 +83,7 @@ A sophisticated personal finance tracking application with advanced data analyti
 - Personalized recommendations
 - Smart alerts and notifications
 
-## 🗄 Database Schema
+## Database Schema
 
 ### Core Tables
 - `expenses`: Transaction records with categorization
